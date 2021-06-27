@@ -116,6 +116,148 @@ $A_{12}$ 指的是第一行第二列元素所对应的代数余子式
 
 <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627161941472.png" alt="image-20210627161941472" style="zoom:67%;" />
 
+![image-20210627181915229](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627181915229.png)
+
+
+
+注意，虽然内积 $A=\alpha^T\beta$ (其中$α$ 和 $β$ 是一个向量)，但 $A^n$ 是一个矩阵，例如
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627182322540.png" alt="image-20210627182322540" style="zoom:67%;" />
+
+同样的，外积也是如此
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627183752435.png" alt="image-20210627183752435" style="zoom:67%;" />
+
+注意方阵阶数和行列式值得对应关系，例如假如将三阶方阵乘以二，那么行列式的值会变大八倍；而同样的操作对于四阶方阵则会变大十六倍，例如
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627185601069.png" alt="image-20210627185601069" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627185619385.png" alt="image-20210627185619385" style="zoom: 67%;" />
+
+此外，求行列式和求矩阵不同，还请注意
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627185733278.png" alt="image-20210627185733278" style="zoom:67%;" />
+
+例如在上面这道题中，不必先解矩阵方程得到矩阵 $B$ 得具体值也可以计算出其行列式大小
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627185915549.png" alt="image-20210627185915549" style="zoom:67%;" />
+
+几个特殊矩阵的行列式
+
+![image-20210627190600097](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627190600097.png)
+
+单位矩阵的应用
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627190641146.png" alt="image-20210627190641146" style="zoom:67%;" />
+
+抽象化的代数余子式
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627190835268.png" alt="image-20210627190835268" style="zoom:67%;" />
+
+有用的小结论1
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627191102236.png" alt="image-20210627191102236" style="zoom:67%;" />
+
+两道相似的题目：
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627191755409.png" alt="image-20210627191755409" style="zoom: 67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627191817414.png" alt="image-20210627191817414" style="zoom:67%;" />
+
+注意，矩阵的内外次幂可以交换，在遇到 $-1$ 要尤其注意
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627192813290.png" alt="image-20210627192813290" style="zoom: 80%;" />
+
+注意单位矩阵的插入位置
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627193142815.png" alt="image-20210627193142815" style="zoom:67%;" />
+
+这里将算式展开以后在右侧项的 $BA$ 中间插入了一个单位矩阵 $E$ 变为 $BEA$ ，完成了化简
+
+此外单位矩阵还可以添置在矩阵两边来辅助计算
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627194144724.png" alt="image-20210627194144724" style="zoom:67%;" />
+
+求等价标准型，这里的 $P$ 和 $Q$ 分别组合了 $A$ 的行和列，从而得到了标准型
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627201538848.png" alt="image-20210627201538848" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627201600721.png" alt="image-20210627201600721" style="zoom:67%;" />
+
+
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627201621554.png" alt="image-20210627201621554" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627201644687.png" alt="image-20210627201644687" style="zoom:67%;" />
+
+矩阵等价指的是两个矩阵在化为上三角阵以后有同样的形式
+
+灵活使用行列式和矩阵的秩之间的联系
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627203321768.png" alt="image-20210627203321768" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627203336122.png" alt="image-20210627203336122" style="zoom:67%;" />
+
+利用不等关系来判断矩阵秩的大小
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627204006416.png" alt="image-20210627204006416" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627204349212.png" alt="image-20210627204349212" style="zoom:67%;" />
+
+怪题一
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627205005689.png" alt="image-20210627205005689" style="zoom:67%;" />
+
+怪题的爸爸
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627205205214.png" alt="image-20210627205205214" style="zoom:67%;" />
+
+结论1
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627210204357.png" alt="image-20210627210204357" style="zoom: 67%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
