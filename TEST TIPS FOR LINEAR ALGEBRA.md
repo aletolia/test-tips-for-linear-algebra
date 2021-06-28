@@ -216,6 +216,210 @@ $A_{12}$ 指的是第一行第二列元素所对应的代数余子式
 
 <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210627210204357.png" alt="image-20210627210204357" style="zoom: 67%;" />
 
+通过将单位矩阵替换为矩阵于其逆矩阵的乘积来化简；$(A^T)^{-1}=(A^{-1})^T$，如果 $A$ 是对称矩阵，那么有 $(A^T)^{-1}=(A^{-1})^T=A^{-1}$
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628111546164.png" alt="image-20210628111546164" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628135643770.png" alt="image-20210628135643770" style="zoom:67%;" />
+
+二项式展开+矩阵的 $n$ 次幂
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628112414862.png" alt="image-20210628112414862" style="zoom:67%;" />
+
+想不清楚就算，要记住从定义出发
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628112735514.png" alt="image-20210628112735514" style="zoom: 50%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628113124361.png" alt="image-20210628113124361" style="zoom: 50%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628113556194.png" alt="image-20210628113556194" style="zoom:67%;" />
+
+切忌生搬硬套
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628113915729.png" alt="image-20210628113915729" style="zoom: 50%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628134309155.png" alt="image-20210628134309155" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628135301859.png" alt="image-20210628135301859" style="zoom:67%;" />
+
+凑配系数
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628135948192.png" alt="image-20210628135948192" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628140001334.png" alt="image-20210628140001334" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628140236646.png" alt="image-20210628140236646" style="zoom: 80%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628140628341.png" alt="image-20210628140628341" style="zoom:67%;" />
+
+有关秩的一些小结论
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628140713791.png" alt="image-20210628140713791" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628140818818.png" alt="image-20210628140818818" style="zoom:67%;" />
+
+求解矩阵方程时，若矩阵不可逆，则用待定系数法求解
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628142309836.png" alt="image-20210628142309836" style="zoom: 80%;" />
+
+判断向量线性表示问题的常用方法
+
+![image-20210628142723078](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628142723078.png)
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628144402862.png" alt="image-20210628144402862" style="zoom:80%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628144521792.png" alt="image-20210628144521792" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628144826499.png" alt="image-20210628144826499" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628152947774.png" alt="image-20210628152947774" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628154802427.png" alt="image-20210628154802427" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628160244577.png" alt="image-20210628160244577" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628160259739.png" alt="image-20210628160259739" style="zoom:67%;" />
+
+
+
+基础解系的条件
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628182514055.png" alt="image-20210628182514055" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628182525735.png" alt="image-20210628182525735" style="zoom:67%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
