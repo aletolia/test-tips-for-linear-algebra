@@ -288,19 +288,21 @@ $A_{12}$ 指的是第一行第二列元素所对应的代数余子式
 
 <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628182525735.png" alt="image-20210628182525735" style="zoom:67%;" />
 
+概念判断
 
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628183510795.png" alt="image-20210628183510795" style="zoom:67%;" />
 
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628184636310.png" alt="image-20210628184636310" style="zoom:67%;" />
 
+文字语言到数学语言的转化
 
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628191604350.png" alt="image-20210628191604350" style="zoom: 67%;" />
 
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628191623584.png" alt="image-20210628191623584" style="zoom:67%;" />
 
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628195501509.png" alt="image-20210628195501509" style="zoom: 80%;" />
 
-
-
-
-
-
-
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210628200553550.png" alt="image-20210628200553550" style="zoom: 80%;" />
 
 
 
